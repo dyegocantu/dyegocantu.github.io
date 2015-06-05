@@ -1,0 +1,9 @@
+# Site settings
+title: Dyego Cantu
+tag_text: Dyego Cantu
+description: Dyego Cantu
+
+# Build settings
+markdown: kramdown
+
+exclude: ["README.md"]
